@@ -23,13 +23,13 @@ Pelo simulador, é possível obter também a projeção do patrimônio para cen�
 - A função ‘PROCV’ (Procurar Valor) foi usada para construir o quadro de percentual sugerido para cada perfil de investidor. Foi criada uma chave composta, formada pelo perfil de investidor e o tipo de fundo, para buscar o percentual sugerido para cada perfil. A seguinte imagem mostra a planilha auxiliar usada para suportar os cálculos:
 
 <p align="center">
- ![planilha_auxiliar](https://github.com/samilasena/dio_simulador/blob/main/chave_composta.png)
+   ![planilha_auxiliar](https://github.com/samilasena/dio_simulador/blob/main/chave_composta.png)
 </p>
 
 - Para facilitar os cálculos, foram considerados intervalos nomeados, conforme mostra a imagem abaixo:
 
 <p align="center">
- ![intervalo_nomeado](https://github.com/samilasena/dio_simulador/blob/main/intervalo_nomeado.png)
+   ![intervalo_nomeado](https://github.com/samilasena/dio_simulador/blob/main/intervalo_nomeado.png)
 </p>
   
 - Os percentuais de cada perfil foram criados em uma planilha à parte e foram sugestão do próprio curso, a imagem abaixo mostra os percentuais sugeridos.
