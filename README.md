@@ -39,27 +39,12 @@ Pelo simulador, é possível obter também a projeção do patrimônio para cen�
 ![capa](https://github.com/samilasena/dio_simulador/blob/main/simulador1.png)
 
 #### Sugestões de alocação de investimento de acordo com o perfil:
-**Perfil conservador:**
 
-Veja os percentuais sugeridos para o perfil conservador:
-
-![parte2](https://github.com/samilasena/dio_simulador/blob/main/simulador2.png)
-
-
-**Perfil agressivo:**
-
-Veja os percentuais sugeridos para o perfil agressivo:
-
-![parte3](https://github.com/samilasena/dio_simulador/blob/main/simulador3.png)
-
-
-
-| Imagem 1 | Imagem 2 |
+| Perfil conservador | Perfil agressivo |
 | :------: | :------: |
 | ![Alt 1](https://github.com/samilasena/dio_simulador/blob/main/simulador2.png) | ![Alt 2](https://github.com/samilasena/dio_simulador/blob/main/simulador3.png) |
 
 
+A planilha com o simulador completo está no link [simulador de FIIS](https://github.com/samilasena/dio_simulador/blob/main/simulador_investimentos_fiis.xlsx) e pode ser usado para adaptar para outros tipos e investimentos ou em cenários que exijam cálculos, variando determinadas carcterísticas.
 
-A planilha com o simulador completo está no link [simulador de FIIS](https://github.com/samilasena/dio_simulador/blob/main/simulador_investimentos_fiis.xlsx)
 
-é o arquivo xxxx e pode ser usado para adaptar para outros tipos e investimentos ou em cenários que exijam cálculos, variando determinadas carcterísticas.
