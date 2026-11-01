@@ -22,10 +22,15 @@ Pelo simulador, é possível obter também a projeção do patrimônio para cen�
 - Para o cálculo do patrimônio em diferentes cenários, foi usada a função ‘VF’ (valor futuro) do Excel, considerando a taxa de rendimento mensal, o tempo de investimento (em meses) e o valor a ser investido em cada mês.  
 - A função ‘PROCV’ (Procurar Valor) foi usada para construir o quadro de percentual sugerido para cada perfil de investidor. Foi criada uma chave composta, formada pelo perfil de investidor e o tipo de fundo, para buscar o percentual sugerido para cada perfil. A seguinte imagem mostra a planilha auxiliar usada para suportar os cálculos:
 
+<p align="center">
 ![planilha_auxiliar](https://github.com/samilasena/dio_simulador/blob/main/chave_composta.png)
+</p>
 
 - Para facilitar os cálculos, foram considerados intervalos nomeados, conforme mostra a imagem abaixo:
 
+<p align="center">
+![intervalo_nomeado](https://github.com/samilasena/dio_simulador/blob/main/intervalo_nomeado.png)
+</p>
   
 - Os percentuais de cada perfil foram criados em uma planilha à parte e foram sugestão do próprio curso, a imagem abaixo mostra os percentuais sugeridos.
 - As principais diferenças entre a ferramenta criada e apresentada no curso são as paletas de cores e o gráfico usado para os percentuais de cada perfil.
