@@ -47,6 +47,6 @@ Nas imagens abaixo é possível visualizar as indicações de proporção de alo
 | ![Alt 1](https://github.com/samilasena/dio_simulador/blob/main/simulador2.png) | ![Alt 2](https://github.com/samilasena/dio_simulador/blob/main/simulador3.png) |
 
 
-A planilha com o simulador completo está no link [simulador de FIIS](https://github.com/samilasena/dio_simulador/blob/main/simulador_investimentos_fiis.xlsx) e pode ser usado para adaptar para outros tipos e investimentos ou em cenários que exijam cálculos, variando determinadas carcterísticas.
+A planilha com o simulador completo está no link [simulador de FIIS](https://github.com/samilasena/dio_simulador/blob/main/simulador_investimentos_fiis.xlsx) e pode ser usado para adaptar para outros tipos e investimentos ou em cenários que exijam cálculos, variando determinadas características.
 
 
