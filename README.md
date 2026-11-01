@@ -24,12 +24,25 @@ Pelo simulador, é possível obter também a projeção do patrimônio para cen�
 
 ![planilha_auxiliar](https://github.com/samilasena/dio_simulador/blob/main/chave_composta.png)
 
+
 - Para facilitar os cálculos, foram considerados intervalos nomeados, conforme mostra a imagem abaixo:
 
 ![intervalo_nomeado](https://github.com/samilasena/dio_simulador/blob/main/intervalo_nomeado.png)
 
   
-- Os percentuais de cada perfil foram criados em uma planilha à parte e foram sugestão do próprio curso, a imagem abaixo mostra os percentuais sugeridos.
 - As principais diferenças entre a ferramenta criada e apresentada no curso são as paletas de cores e o gráfico usado para os percentuais de cada perfil.
-- As imagens abaixo mostram alguns resultados do simulador.
+- As imagens abaixo mostram alguns resultados do simulador:
+
+#### Topo do Simulador:
+- Contém informações necessárias para a simulação, como o salário e o rendimento da carteira.
+  
+![capa](https://github.com/samilasena/dio_simulador/blob/main/simulador1.png)
+
+#### Sugestões de alocação de investimento de acordo com o perfil:
+**Perfil conservador:**
+
+![parte2](https://github.com/samilasena/dio_simulador/blob/main/simulador2.png)
+
+**Perfil agressivo:**
+![parte3](hhttps://github.com/samilasena/dio_simulador/blob/main/simulador3.png)
 
