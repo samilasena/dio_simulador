@@ -44,5 +44,6 @@ Pelo simulador, é possível obter também a projeção do patrimônio para cen�
 ![parte2](https://github.com/samilasena/dio_simulador/blob/main/simulador2.png)
 
 **Perfil agressivo:**
-![parte3](hhttps://github.com/samilasena/dio_simulador/blob/main/simulador3.png)
+![parte3](https://github.com/samilasena/dio_simulador/blob/main/simulador3.png)
 
+A planilha com o simulador é o arquivo xxxx e pode ser usado para adaptar para outros tipos e investimentos ou em cenários que exijam cálculos, variando determinadas carcterísticas.
