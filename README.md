@@ -2,7 +2,7 @@
 
 ## Desafio DIO - Criar um simulador do Excel
 
-### **Introdução:**
+### :rocket: **Introdução:**
 
 Esse projeto faz parte de um dos desafios, Módulo de “Criando uma Ferramenta de Controle de Investimentos com Excel” do curso Santander - Excel com Inteligência Artificial, ministrado pelo Professor Felipe Aguiar (Felipão). 
 
@@ -39,6 +39,8 @@ Pelo simulador, é possível obter também a projeção do patrimônio para cen�
 ![capa](https://github.com/samilasena/dio_simulador/blob/main/simulador1.png)
 
 #### Sugestões de alocação de investimento de acordo com o perfil:
+
+Nas imagens abaixo é possível visualizar as indicações de proporção de alocação em fundos imobiliários de para os perfis conservador e agressivo.
 
 | Perfil conservador | Perfil agressivo |
 | :------: | :------: |
